@@ -1,2 +1,4 @@
 # BREAK-
-App that Rewards you with math
+This is Break!
+
+Break is an amazing application that will give you reward your for doing simple arithmatic problems
